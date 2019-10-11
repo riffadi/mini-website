@@ -1,2 +1,2 @@
 # mini-website
-Website with HTML, CSS, PHP, Javascript, and MySQL
+Mini website with HTML, CSS, PHP, Javascript, and MySQL
