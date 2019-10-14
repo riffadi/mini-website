@@ -1,2 +1,2 @@
-# mini-website
-Mini website with HTML, CSS, PHP, Javascript, and MySQL
+# website-profile
+Website profile with HTML, CSS, PHP, Javascript, and MySQL
