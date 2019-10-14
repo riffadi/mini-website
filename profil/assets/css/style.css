@@ -80,7 +80,7 @@ nav ul li a:hover{
 	display: none;
 }
 
-.menu-mobile{
+.menu-mobile a{
 	color: #888;
 	font-size: 14px;
 	text-transform: uppercase;
@@ -96,7 +96,7 @@ section#box-profile{
 	min-height: 250px;
 	margin-right: 10%;
 	margin-left: 10%;
-	margin-top: 5%;
+	margin-top: 60px;
 	border-radius: 6px;
 	background-color: #fff;
 	box-shadow: 0 0 7px 0px rgba(136, 136, 126, 0.2)
@@ -106,7 +106,7 @@ section#box-profile{
 	position: relative;
 	display: inline-block;
 	width: 200px;
-	height: 190px;
+	height: 200px;
 	border-radius: 300px;
 	float: left;
 	top: 25px;
@@ -169,3 +169,6 @@ section#box-profile{
 .information .data p{
 	float: left;
 }
+
+/* form */
+
